@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Light Theme & Dark Theme -->
+    <color name="primaryColor">#2b4170</color>
+    <color name="primaryLightColor">#5a6c9f</color>
+    <color name="primaryDarkColor">#001b44</color>
+    <color name="secondaryColor">#0d1923</color>
+    <color name="secondaryLightColor">#333f4b</color>
+    <color name="secondaryDarkColor">#000000</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#ffffff</color>
+</resources>
